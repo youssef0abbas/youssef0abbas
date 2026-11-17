@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Youssef
 
-<!--
-**youssef0abbas/youssef0abbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET full-stack developer in training. I build web applications with C# and ASP.NET Core, and I'm currently part of the DEPI .NET Full-Stack Track (Team 2, July - December 2026).
 
-Here are some ideas to get you started:
+Featured projects
+LifePulse - Blood Donation Platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A blood donation platform that connects hospitals with compatible donors, built by a team of 5 with ASP.NET Core 9 MVC.
+
+Matches donors by ABO/Rh compatibility, eligibility, and distance
+Hospital inventory dashboard and blood request lifecycle
+My part: donor management and geo-location (56-day eligibility rule, Haversine distance)
+
+Repo: DEPI-DotNet-Final-Projects-Team2
+
+Hospital & Clinical Management System
+
+A database systems course project built on SQL Server.
+
+Repo: Hospital-Clinical-Management-System
+
+Tech I work with
+Languages: C#, SQL
+Backend: ASP.NET Core MVC, Entity Framework Core, LINQ, ASP.NET Core Identity
+Database: SQL Server
+Frontend: Razor, Bootstrap, HTML, CSS
+Tools: Git, GitHub, Visual Studio
+Currently learning
+Clean architecture and design patterns in ASP.NET Core
+Writing cleaner, more testable C#
+Let's connect
+LinkedIn: [https://www.linkedin.com/in/youssef-mohammed-b55a16337/]
+Email: [snoopyman461@gmail.com]
